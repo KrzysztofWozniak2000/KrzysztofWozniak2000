@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KrzysztofWozniak2000
 - 👀 I’m interested in $
 - 🌱 I’m currently learning HTML/CSS/JS/PHP
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: krzysztof.wozniak.fm@gmail.com
 
 <!---
