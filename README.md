@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrzysztofWozniak2000
-- 👀 I’m interested in $
+- 👀 I’m interested in Technology
 - 🌱 I’m currently learning HTML/CSS/JS/PHP
 - 📫 How to reach me: krzysztof.wozniak.fm@gmail.com
 
